@@ -218,7 +218,7 @@ public class Alkalmazas extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void RendelesGombActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_RendelesGombActionPerformed
-        JOptionPane.showMessageDialog(rootPane, "Ez egy tesztverzió");
+        JOptionPane.showMessageDialog(rootPane, "Ez egy tesztverzió", "Cím", 2);
         JOptionPane.showMessageDialog(rootPane, "köszönöm a rendelést");
     }//GEN-LAST:event_RendelesGombActionPerformed
 
